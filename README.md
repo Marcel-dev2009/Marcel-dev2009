@@ -1,5 +1,8 @@
 Hi, I'm Marcel, a passionate front-end developer and aspiring software engineer with a keen interest in building innovative and responsive websites. My journey began with HTML and CSS, and I’m continuously expanding my expertise into JavaScript, Tailwind CSS, and beyond.
 
+![GitHub Sponsors](https://img.shields.io/github/sponsors/:user)
+
+
 What I Do
 
 Create responsive and user-friendly websites.
