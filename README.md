@@ -1,9 +1,12 @@
-Hi, I'm Marcel, a passionate front-end developer and aspiring software engineer with a keen interest in building innovative and responsive websites. My journey began with HTML and CSS, and I’m continuously expanding my expertise into JavaScript, Tailwind CSS, and beyond.
+## **Hi, I'm Marcel 👋🏻**
+
+                                                                
+*A dedicated front-end developer and aspiring software engineer focused on creating innovative, responsive websites. I started with HTML and CSS and am now expanding my skills in JavaScript, Tailwind CSS, and more.*
 
 
 
 
-What I Do
+# **What I Do**
 
 Create responsive and user-friendly websites.
 
@@ -23,9 +26,9 @@ keen to explore other tech fields
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
 
-Current Focus
+## **Current Focus**
 
-I'm currently:
+# **I'm currently:**
 
 Adding dynamic functionality to my projects with JavaScript.
 
