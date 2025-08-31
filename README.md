@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I’m Somtochukwu Marcel</h1>
+<h1 align="center">👋 Hey, I’m Somtochukwu Marcel (Full Stack Dev)</h1>
 
 ###
 
@@ -18,19 +18,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ3dW8yNDhnNTQ2MjFweGV0b3hnNXQ2ZXN4bXZsdzJ1NXFhZGMzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1QNtCtTbbLzMSwFeic/giphy.gif"  />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcel-dev2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcel-dev2009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Marcel-dev2009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcel-dev2009&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
@@ -43,7 +30,20 @@
 
 ###
 
+<img align="right" height="386" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ3dW8yNDhnNTQ2MjFweGV0b3hnNXQ2ZXN4bXZsdzJ1NXFhZGMzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1QNtCtTbbLzMSwFeic/giphy.gif"  />
+
+###
+
 <h4 align="left">I’m a passionate Fullstack developer from Nigeria who loves building fast, modern, and responsive web applications<br>Currently exploring Dart and Flutter to explore making natively mobile apps to push my projects to the next level.  <br><br>When I’m not coding, you’ll find me experimenting with new tools, learning more about backend dev, or working on fun side projects.  <br>---<br> 📌 Current Focus  <br>- Building scalable apps with <br>  Next.js + TypeScript<br>- Improving UI/UX with animations (Framer Motion , GSAP , 3.js)  <br>- Exploring more backend technologies  <br><br>---</h4>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcel-dev2009&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcel-dev2009&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Marcel-dev2009&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Marcel-dev2009&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
 ###
 
@@ -95,11 +95,16 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">Fun Fact : </h3>
 
 ###
 
-<p align="left">Hello World!!</p>
+<h4 align="left"> I can't resist coding 
+  <br> Chess Lover 
+  <br>Physics Lover</h4>
+###
+
+<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
