@@ -20,16 +20,6 @@
 
 <h2 align="left">👩‍💻  About Me</h2>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31idzqnkvqvs3pxf4femkl5xtgga">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31idzqnkvqvs3pxf4femkl5xtgga&count=4" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
 <img align="right" height="386" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmZ3dW8yNDhnNTQ2MjFweGV0b3hnNXQ2ZXN4bXZsdzJ1NXFhZGMzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1QNtCtTbbLzMSwFeic/giphy.gif"  />
 
 ###
