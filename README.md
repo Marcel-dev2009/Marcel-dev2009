@@ -13,6 +13,7 @@
   <a href="https://github.com/Marcel-dev2009">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcel-dev2009&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Marcel-dev2009's GitHub Stats" />
   </a>
+  
   <img src="https://streak-stats.demolab.com/?user=Marcel-dev2009&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Marcel-dev2009's GitHub Streak" width="49%" />
 </p>
 <p align="center">
