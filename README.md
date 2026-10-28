@@ -1,43 +1,51 @@
-<h1 align="center">Hey, There</h1>
-<h2 align="center">👩‍💻 About Me</h2>
-<h4 align="left">Backend Engineer | Systems Architect <br>Currently exploring C and Low-level systems to push my progamming knowledge to to an elite level.<br><br>My philosophy is built around simplifying complex systems into managable chunks of data. when I'm not coding, I'll be busy with research and developments on the world of tech<br><br>---</h4>
+# Hey there 👋
 
-## 🧠 My Focus Areas
-- Blockchain(EVM and Solana Infrastructure)
-- Systems Design
-- Embedded Systems
+## 👩‍💻 About Me
+**Backend Engineer | Systems Architect**
 
+I specialize in building reliable backends and exploring low-level C programming to understand systems from the ground up. 
 
-## 📊 GitHub Stats & Trophies
+My approach is simple: break down complex architecture into clean, manageable data pipelines. When I’m not writing code, I’m researching emerging tech trends and open-source developments.
+
+---
+
+## 🧠 Focus Areas
+* **Backend Systems:** API Design, Database Architecture, Performance Optimization
+* **Blockchain Infrastructure:** EVM & Solana Smart Contracts/Protocols
+* **Low-Level Development:** C Programming & Embedded Systems
+## 📊 GitHub Stats & Activity
+
 <p align="center">
   <a href="https://github.com/Marcel-dev2009">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcel-dev2009&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Marcel-dev2009's GitHub Stats" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcel-dev2009&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Marcel-dev2009's GitHub Stats" />
   </a>
-  
-  <img src="https://streak-stats.demolab.com/?user=Marcel-dev2009&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Marcel-dev2009's GitHub Streak" width="49%" />
+  &nbsp;
+  <a href="https://github.com/Marcel-dev2009">
+    <img height="180" src="https://streak-stats.demolab.com/?user=Marcel-dev2009&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Marcel-dev2009's GitHub Streak" />
+  </a>
 </p>
+
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Marcel-dev2009&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Somtochuwku Marcel's GitHub Trophies" />
 </p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcel-dev2009&theme=tokyonight&radius=10" alt="Marcel-dev2009's Activity Graph" />
-</p>
-
 
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust.svg" alt="Rust" width="40" />
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="Rust" width="45" height="45" />&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="Solidity" width="45" height="45" />
 </p>
 
-<h3 align="center">Frontend</h3>
+content.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+
+</p><h3 align="center">Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
@@ -57,10 +65,7 @@
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
-
-</p>
+  <img src="https://raw.githubuser
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
